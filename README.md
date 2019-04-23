@@ -1,4 +1,4 @@
-# Loup-garou
+# <font color=#ff672d>Loup-garou</font>
 
     Projet de fin d'année pour l'option informatique et science du numerique (ISN) en 2016.
     
